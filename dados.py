@@ -1,3 +1,4 @@
+#se agrega un numero aleatorio para cada jugador
 from random import randint
 
 def insertar_nombre():
