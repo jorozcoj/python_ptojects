@@ -1,0 +1,7 @@
+El juego de dados permite jugar a dos jugadores y se implementan las siguientes dinamicas: 
+
+1. Se lanza 1 dado y el numero que sale es el objetivo de la partida
+
+2. Por orden, los dos jugadores lanzan dos dados cada uno. Gana el jugador que al lanzar los dados, la suma de ambos sea igual al objetivo.
+
+3. El juego finaliza cuando un jugador gana dos partidas.
