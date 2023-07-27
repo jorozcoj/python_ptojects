@@ -13,7 +13,7 @@ def seleccion_dados():
     dado2J2 = randint(1,6)
 
     return dado1J1,dado2J1,dado1J2,dado2J2
-    
+#se verifican las condiciones para determinar la suma de los dados
 def revision_reglas(jugador1,jugador2,dado1J1,dado2J1,dado1J2,dado2J2,victorias_J1,victorias_J2):
     sumaDadosJ1=dado1J1+dado2J1
     sumaDadosJ2=dado1J2+dado2J2
